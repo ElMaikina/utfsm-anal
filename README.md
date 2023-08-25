@@ -54,6 +54,6 @@ npm start
 
 # Videos
 Enlaces con los videos correspondientes
-* [Video presentación avance 1](https://www.youtube.com/watch?v=Yh-PxxLBc8I&ab_channel=JesusEscanilla)
+* [Video presentación avance 1](https://youtu.be/Srpv72CV5yQ)
 # Aspectos técnicos relevantes
 Todo aspecto relevante cuando para poder usar el proyecto o consideraciones del proyecto base a ser entregado
